@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/GTuchZPRzR3s4/giphy.gif" width="800" height="300" />
+  <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif" width="500"/>
 </p>
 
 
@@ -31,12 +31,6 @@
 
 ---
 
-<!-- ===================== STATS ===================== -->
-## 📊 GitHub Stats
-<!-- <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinThantKo365&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MinThantKo365&theme=tokyonight" />
-</p> -->
 
 ---
 
@@ -49,19 +43,14 @@
 ---
 
 <!-- ===================== SNAKE ===================== -->
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MinThantKo365/MinThantKo365/output/github-contribution-grid-snake.svg" />
-</p>
 
----
 
 <!-- ===================== CODE STYLE ===================== -->
 ## 🛠 Tech Stack (Python Style)
 ```python
 skills = {
     "backend": ["Laravel", "PHP", "MySQL"],
-    "frontend": ["Vue.js", "Bootstrap", "Inertia"],
-    "ai_ml": ["Python", "PyTorch", "TensorFlow"],
+    "frontend": ["Vue.js", "Bootstrap"],
+    "ai_ml": ["Python"],
     "tools": ["Git", "Linux"]
 }
