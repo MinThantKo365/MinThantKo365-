@@ -33,7 +33,7 @@
 <!-- ===================== STATS ===================== -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinThantKo365&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
 </p>
 
@@ -42,7 +42,7 @@
 <!-- ===================== LANGUAGES ===================== -->
 ### 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinThantKo365&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 <!-- ===================== SNAKE ANIMATION ===================== -->
 ### 🐍 Contribution Snake (Python-style Animation)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/MinThantKo365/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
