@@ -44,8 +44,8 @@
 
 
 <!-- ===================== CODE STYLE ===================== -->
-## 🛠 Tech Stack (Python Style)
-```python
+## 🛠 Tech Stack 
+``` tech
 skills = {
     "backend": ["Laravel", "PHP", "MySQL"],
     "frontend": ["Vue.js", "Bootstrap"],
