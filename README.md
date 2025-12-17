@@ -4,16 +4,9 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=22
-    &pause=1000
-    &color=00C896
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=Python+Developer;Laravel+and+Vue+Engineer;AI+Deep+Learning+Explorer;Building+Clean+Scalable+Apps" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420" />
 </p>
+
 
 
 ---
