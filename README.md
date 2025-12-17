@@ -1,5 +1,5 @@
 <!-- ===================== HERO ===================== -->
-<h1 align="center">Hi 👋 I'm Min Thant Ko</h1>
+<h1 align="center">Hi 👋 I'm Min Thant Ko </h1><img src="assets/Luffys-flag-2-icon.png" width="40" />
 <h3 align="center">Web Developer • AI Learner</h3>
 
 <!-- Typing Animation -->
@@ -31,8 +31,6 @@
 
 ---
 
-
----
 
 <!-- ===================== LANGUAGES ===================== -->
 ## 🧠 Most Used Languages
